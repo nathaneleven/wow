@@ -15,8 +15,8 @@ const Advanteges = () => {
           <Image src="/speed.svg"/>
         </Box>
 
-        <Heading pb="10px" as="h3" fontSize="2xl">Ziply Fiber 500/500</Heading>
-        <Text>Get a fast and reliable connection with whole home Wi-Fi on our 100% fiber network. </Text>
+        <Heading pb="10px" as="h3" fontSize="2xl">SPEED</Heading>
+        <Text>Share files quickly, communicate seamlessly, and advance your business with the fastest Internet speeds on the market.</Text>
       </Box>
     </Flex>
     
@@ -26,8 +26,8 @@ const Advanteges = () => {
           <Image src="/reliability.svg"/>
         </Box>
 
-        <Heading pb="10px" as="h3" fontSize="2xl">Ziply Fiber 500/500</Heading>
-        <Text>Get a fast and reliable connection with whole home Wi-Fi on our 100% fiber network. </Text>
+        <Heading pb="10px" as="h3" fontSize="2xl">RELIABILITY</Heading>
+        <Text>You'll get peace of mind with the security of a privately owned and managed network.</Text>
       </Box>
     </Flex>
     <Flex rounded="md" boxShadow="xl" bgColor="#F1F1F1" align="center" direction="column" >
@@ -36,8 +36,8 @@ const Advanteges = () => {
           <Image src="/value.svg"/>
         </Box>
 
-        <Heading pb="10px" as="h3" fontSize="2xl">Ziply Fiber 500/500</Heading>
-        <Text>Get a fast and reliable connection with whole home Wi-Fi on our 100% fiber network. </Text>
+        <Heading pb="10px" as="h3" fontSize="2xl">VALUE</Heading>
+        <Text>WOW! packages are priced to fit your budget and drive your business.</Text>
       </Box>
     </Flex>
     <Flex rounded="md" boxShadow="xl" bgColor="#F1F1F1" align="center" direction="column" >
@@ -46,8 +46,8 @@ const Advanteges = () => {
           <Image src="/support.svg"/>
         </Box>
 
-        <Heading pb="10px" as="h3" fontSize="2xl">Ziply Fiber 500/500</Heading>
-        <Text>Get a fast and reliable connection with whole home Wi-Fi on our 100% fiber network. </Text>
+        <Heading pb="10px" as="h3" fontSize="2xl">SUPPORT</Heading>
+        <Text>Our dedicated, locally-based account and IT teams provide 24/7 support.</Text>
       </Box>
     </Flex>
   </SimpleGrid>
